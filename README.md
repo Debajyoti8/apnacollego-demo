@@ -1,4 +1,4 @@
 # apnacollego-demo
 This is my first git repo.
 <br>
-Author-DC
+Author-DC(NIT)
